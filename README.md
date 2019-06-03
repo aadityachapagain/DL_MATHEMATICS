@@ -5,10 +5,10 @@ Rather the Headings I am giving here , I will not actually point out all the Mat
 
 ## List of Algorithms ( or Maths tricks )
 
--[X] weighted Averages
+- [x] weighted Averages
 1. Exponantial encounter of weighted Averages
 2. Why we are using weighted averages ? Its a beautiful mathematical tricks ( Nothing more !)
 3. Are really weighted averages really important ? Think the life of ML engineers without it.
 4. The New Era of weighted averages
 
--[X] Bias correction in Exponentially weighted averages
+- [X] Bias correction in Exponentially weighted averages
